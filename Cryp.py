@@ -126,7 +126,7 @@ async def price(client, message):
 
             headers = {
                 "accept": "application/json",
-                "x-cg-demo-api-key": "CG-RPP5icdeq6BxNv1MofCPKsm9"
+                "x-cg-demo-api-key": "##-#######################"
             }
 
             response = requests.get(url, headers=headers)
